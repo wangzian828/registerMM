@@ -27,7 +27,9 @@ The full repository, including training code, inference code, checkpoints, and e
 
 ## Method Overview
 
-Method figures will be added under `assets/`.
+The current method overview figure is shown below.
+
+![registerMM architecture](assets/structure.png)
 
 ## Qualitative Results
 
